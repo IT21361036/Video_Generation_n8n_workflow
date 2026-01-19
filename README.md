@@ -1,4 +1,5 @@
 # n8n Image-to-Video Generation Workflow
+<img width="1571" height="847" alt="n8n_workflow" src="https://github.com/user-attachments/assets/fa0a6cdc-235a-4f44-84db-27d176ea18fc" />
 
 ## 📌 Repository Description
 
